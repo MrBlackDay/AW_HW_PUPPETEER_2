@@ -1,0 +1,28 @@
+{
+  "name": "aw_hw-7_5-puppeteer_2",
+  "version": "1.0.0",
+  "description": "Using puppeteer, jest-puppeteer, cucumber, chai, jest to automate tests on the https://qamid.tmweb.ru/client/payment.php",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test": "cucumber-js"
+  },
+  "keywords": [
+    "jest",
+    "jest-puppeteer",
+    "puppeteer",
+    "cucumber",
+    "chai",
+    "nodeJS",
+    "npm"
+  ],
+  "author": "Dima Lis",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "jest-puppeteer": "^6.0.0",
+    "puppeteer": "^13.3.2",
+    "chai": "^4.3.4",
+    "cucumber": "^7.0.0-rc.0"
+  }
+}
